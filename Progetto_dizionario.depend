@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1645464798 source:c:\users\francesco\desktop\programmazione 1\progetto_dizionario\funzioni_dizionario.c
+	<stdio.h>
+	<stdlib.h>
+	"lib_funzioni_dizionario.h"
+	<string.h>
+
+1645464352 c:\users\francesco\desktop\programmazione 1\progetto_dizionario\lib_funzioni_dizionario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1645463951 source:c:\users\francesco\desktop\programmazione 1\progetto_dizionario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib_funzioni_dizionario.h"
+	<string.h>
+
